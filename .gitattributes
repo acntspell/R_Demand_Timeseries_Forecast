@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+GFD_Response_Info.xlsx filter=lfs diff=lfs merge=lfs -text
+GFD_Covid_adjusted_V2.xlsx filter=lfs diff=lfs merge=lfs -text
+GFD_Unadjusted.xlsx filter=lfs diff=lfs merge=lfs -text
